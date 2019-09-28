@@ -1,0 +1,15 @@
+//
+//  API.swift
+//  movie-core-data
+//
+//  Created by Thet Htun on 9/17/19.
+//  Copyright © 2019 padc. All rights reserved.
+//
+
+import Foundation
+
+class API {
+    static let BASE_URL = "https://api.themoviedb.org/3";
+    static let BASE_IMG_URL = "https://image.tmdb.org/t/p/w500";
+    static let KEY = "6ea219b5298188f1d70fed47c291d9a0"
+}
